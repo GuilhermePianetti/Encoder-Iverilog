@@ -1,0 +1,189 @@
+$date
+	Sun Oct 08 21:21:12 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module test_bench $end
+$var reg 4 ! A [3:0] $end
+$upscope $end
+$scope module test_bench $end
+$var wire 4 " S [3:0] $end
+$upscope $end
+$scope module test_bench $end
+$var reg 1 # ready $end
+$upscope $end
+$scope module test_bench $end
+$var reg 1 $ reset $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+1$
+0#
+b0 "
+bx !
+$end
+#10
+0$
+#20
+b110 "
+1#
+b0 !
+#30
+b0 "
+1$
+0#
+#40
+0$
+#50
+b10 "
+1#
+b1 !
+#60
+b0 "
+1$
+0#
+#70
+0$
+#80
+b100 "
+1#
+b10 !
+#90
+b0 "
+1$
+0#
+#100
+0$
+#110
+b101 "
+1#
+b11 !
+#120
+b0 "
+1$
+0#
+#130
+0$
+#140
+b1111 "
+1#
+b100 !
+#150
+b0 "
+1$
+0#
+#160
+0$
+#170
+b1011 "
+1#
+b101 !
+#180
+b0 "
+1$
+0#
+#190
+0$
+#200
+b111 "
+1#
+b110 !
+#210
+b0 "
+1$
+0#
+#220
+0$
+#230
+b1010 "
+1#
+b111 !
+#240
+b0 "
+1$
+0#
+#250
+0$
+#260
+b11 "
+1#
+b1000 !
+#270
+b0 "
+1$
+0#
+#280
+0$
+#290
+1#
+b1001 !
+#300
+1$
+0#
+#310
+0$
+#320
+b1001 "
+1#
+b1010 !
+#330
+b0 "
+1$
+0#
+#340
+0$
+#350
+b1110 "
+1#
+b1011 !
+#360
+b0 "
+1$
+0#
+#370
+0$
+#380
+b1000 "
+1#
+b1100 !
+#390
+b0 "
+1$
+0#
+#400
+0$
+#410
+b1100 "
+1#
+b1101 !
+#420
+b0 "
+1$
+0#
+#430
+0$
+#440
+b1 "
+1#
+b1110 !
+#450
+b0 "
+1$
+0#
+#460
+0$
+#470
+b1101 "
+1#
+b1111 !
+#480
+0#
+#490
